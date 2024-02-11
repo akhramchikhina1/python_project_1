@@ -1,1 +1,5 @@
-print("Привет, Python! \nHello, Python! \nBonjour Python! \nHej, Python! \nHola, Python!")
+print("Привет, Python!")
+print("Hello, Python!")
+print("Bonjour Python!")
+print("Hej, Python!")
+print("Hola, Python!")
