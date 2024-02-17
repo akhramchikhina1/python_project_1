@@ -1,2 +1,2 @@
-name=str(input("Как Вас зовут? "))
-print(f"Привет, {name}!")
+name=str(input('Как Вас зовут? '))
+print(f'Привет, {name}!')
